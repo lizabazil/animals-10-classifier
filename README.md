@@ -30,7 +30,7 @@ pipenv shell
 jupyter notebook
 ```
 6. Open the notebook.
-Once Jupyter Notebook is running, open the *classifier.ipynb* file and execute the cells to preprocess data.
+Once Jupyter Notebook is running, open the *preprocess.ipynb* file and execute the cells to preprocess data.
 
 **Contributors:**
 - Yelyzaveta Tretiak (@lizabazil)
